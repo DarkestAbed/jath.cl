@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { formatDate } from '$lib/utils';
 	import * as config from '$lib/config';
+	import Blogintro from '../blogintro.svelte';
 
 	export let data;
 </script>
@@ -11,6 +12,8 @@
 
 <!-- Posts -->
 <section>
+	<Blogintro />
+	<br>
 	<ul class="posts">
 		{#each data.posts as post}
 			<li class="post">
