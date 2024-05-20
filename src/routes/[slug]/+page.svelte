@@ -33,17 +33,20 @@
 
 <style>
 	article {
-		/* max-inline-size: var(--size-content-4); */
+		/* max-inline-size: var(--size-content-1); */
 		margin-inline: auto;
-		display: inline-block;
+		display: flexbox;
+		/* align-items: baseline; */
 	}
 
 	h1 {
 		text-transform: capitalize;
+		text-decoration: underline overline;
 	}
 
 	h1 + p {
 		margin-top: var(--size-2);
+		margin-bottom: var(--size-2);
 		color: var(--text-2);
 	}
 
@@ -51,6 +54,7 @@
 		display: flex;
 		gap: var(--size-3);
 		margin-top: var(--size-7);
+		margin-bottom: var(--size-3);
 	}
 
 	.tags > * {
