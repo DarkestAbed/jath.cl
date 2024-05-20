@@ -8,7 +8,14 @@ categories:
   - data-warehousing
 published: true
 ---
-<img src="src/lib/assets/imgs/banner.webp" alt="Banner" />
+<script>
+    import bannerImage from "$lib/assets/imgs/ch-banner.webp";
+</script>
+
+## A primer on building a data store on Clickhouse
+
+<br>
+<img src={bannerImage} alt="banner" />
 
 I had recently a data engineering challenge: I had to deliver data, wrangled in Spark (personal choice, but since Spark and Databricks are all the hype, why not, right?), into a data warehouse provisioned in Yandex’s own Clickhouse. For those of you who are unaware of it, Clickhouse is an analytical, column-oriented, blazingly fast database, open sourced by their creators. I was, at the moment, unfamiliar with the technology. And if the fun was not enough, I had to dockerize the entire solution, so I had to deal with network communication and APIs. Obviously, I had to write about the problem after I was done coding about it.
 

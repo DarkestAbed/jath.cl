@@ -8,6 +8,7 @@ node_modules
 .DS_Store
 .env
 .env.*
+.tool-versions
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
