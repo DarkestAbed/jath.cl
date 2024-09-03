@@ -1,11 +1,12 @@
 ---
 title: Ser jefe. Una mirada des-romantizada
 description: Ser jefe (y/o líder) en esta época es una labor compleja.
-date: '2024-5-16'
+date: '2024-9-03'
 categories:
-  - liderazgo
-  - experiencias
-  - trabajo
+  - software
+  - ventas
+  - desarrollo
+  - xaas
 published: true
 ---
 # CodeOps, o cómo estamos empujando ventas a través de marcos metodológicos
