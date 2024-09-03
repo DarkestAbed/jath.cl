@@ -1,6 +1,6 @@
 ---
-title: Ser jefe. Una mirada des-romantizada
-description: Ser jefe (y/o líder) en esta época es una labor compleja.
+title: CodeOps (o cómo estamos empujando ventas a través de marcos metodológicos)
+description: Crear conocimiento es difícil y vale la pena. La vale cuando es con fines comerciales?
 date: '2024-9-03'
 categories:
   - software
