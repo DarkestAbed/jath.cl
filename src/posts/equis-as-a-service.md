@@ -9,8 +9,6 @@ categories:
   - xaas
 published: true
 ---
-# CodeOps, o cómo estamos empujando ventas a través de marcos metodológicos
-
 Me tope hace muy poco con un articulo de The New Stack que habla de los beneficios de CodeOps (https://thenewstack.io/coding-from-scratch-creates-new-risks/). Como nunca antes habia leido ni escuchado el concepto, y me parecio intrigante. Asi que investigue al respecto (de forma ni cerca de ser exhaustiva), y me encontre con una buena definicion:
 
 > [CodeOps] es una forma emergente de construir productos de software rápidamente, con código completamente propietario y reusable.
